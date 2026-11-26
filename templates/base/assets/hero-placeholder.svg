@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Imagem editorial de exemplo</title>
+  <desc id="desc">Composição abstrata em tons carvão e âmbar para substituir por uma fotografia da barbearia.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34271b"/><stop offset=".55" stop-color="#171310"/><stop offset="1" stop-color="#090807"/></linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d49b45" stop-opacity=".5"/><stop offset="1" stop-color="#d49b45" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#wall)"/>
+  <path d="M0 0h650L280 1000H0z" fill="url(#light)" opacity=".65"/>
+  <path d="M1040 0h560v1000h-410z" fill="#090807" opacity=".55"/>
+  <path d="M1110 95h300v810h-300z" fill="none" stroke="#d49b45" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M1145 130h230v740h-230z" fill="#171310" stroke="#fff" stroke-opacity=".06"/>
+  <circle cx="1260" cy="500" r="116" fill="none" stroke="#d49b45" stroke-opacity=".26" stroke-width="2"/>
+</svg>
