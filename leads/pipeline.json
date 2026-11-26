@@ -1,17 +1,69 @@
-{
-  "leads": [],
-  "_schema": {
-    "slug": "string — identificador único em formato de URL, usado também no nome do briefing e da página.",
-    "name": "string — nome público do negócio.",
-    "niche": "string — nicho ou categoria do negócio.",
-    "city": "string — cidade e, se útil, UF.",
-    "phone": "string — telefone de contato, preferencialmente com código do país.",
-    "whatsapp": "string — número do WhatsApp com código do país; somente dígitos.",
-    "maps_url": "string — URL da ficha do estabelecimento no Google Maps.",
-    "current_site": "string|null — URL do site atual, ou null se não houver.",
-    "rating": "number|null — nota pública observada, ou null se indisponível.",
-    "status": ["found", "filtered", "designed", "built", "published", "contacted", "closed", "discarded"],
-    "preview_url": "string|null — URL da prévia ou página publicada, ou null enquanto indisponível.",
-    "updated_at": "string — data e hora da última atualização em ISO 8601, preferencialmente UTC."
-  }
+﻿{
+    "leads":  [
+                  {
+                      "slug":  "brave-barbearia",
+                      "name":  "Brave - Bar \u0026 Barbearia",
+                      "niche":  "Barbearia",
+                      "city":  "Ibiraquera, Imbituba - SC",
+                      "phone":  "(48) 99996-3092",
+                      "whatsapp":  "5548999963092",
+                      "maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=Rua%20Roberto%20Teixeira%20de%20Souza%2C%202832%2C%20Ibiraquera%2C%20Imbituba%2C%20SC",
+                      "current_site":  null,
+                      "rating":  null,
+                      "status":  "published",
+                      "preview_url":  "https://williamdunbar1.github.io/lp-factory/sites/brave-barbearia/",
+                      "updated_at":  "2026-11-26T00:19:48.9939280Z"
+                  },
+                  {
+                      "slug":  "avante-barbearia",
+                      "name":  "Avante Barbearia",
+                      "niche":  "Barbearia",
+                      "city":  "Campo Duna, Garopaba - SC",
+                      "phone":  "(48) 99952-7003",
+                      "whatsapp":  "5548999527003",
+                      "maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=Rodovia%20SC-434%2C%20KM%205%2C%20Campo%20Duna%2C%20Garopaba%2C%20SC",
+                      "current_site":  null,
+                      "rating":  5,
+                      "status":  "published",
+                      "preview_url":  "https://williamdunbar1.github.io/lp-factory/sites/avante-barbearia/",
+                      "updated_at":  "2026-11-26T00:19:49.0021658Z"
+                  },
+                  {
+                      "slug":  "legends-barber",
+                      "name":  "Legends Barber",
+                      "niche":  "Barbearia",
+                      "city":  "Centro, Garopaba - SC",
+                      "phone":  "(48) 99999-9995",
+                      "whatsapp":  "5548999999995",
+                      "maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=Via%20Shopping%20Garopaba%2C%20Rodovia%20Jovino%20Piucco%2C%20742%2C%20Centro%2C%20Garopaba%2C%20SC",
+                      "current_site":  null,
+                      "rating":  null,
+                      "status":  "published",
+                      "preview_url":  "https://williamdunbar1.github.io/lp-factory/sites/legends-barber/",
+                      "updated_at":  "2026-11-26T00:19:49.0057059Z"
+                  }
+              ],
+    "_schema":  {
+                    "slug":  "string — identificador único em formato de URL, usado também no nome do briefing e da página.",
+                    "name":  "string — nome público do negócio.",
+                    "niche":  "string — nicho ou categoria do negócio.",
+                    "city":  "string — cidade e, se útil, UF.",
+                    "phone":  "string — telefone de contato, preferencialmente com código do país.",
+                    "whatsapp":  "string — número do WhatsApp com código do país; somente dígitos.",
+                    "maps_url":  "string — URL da ficha do estabelecimento no Google Maps.",
+                    "current_site":  "string|null — URL do site atual, ou null se não houver.",
+                    "rating":  "number|null — nota pública observada, ou null se indisponível.",
+                    "status":  [
+                                   "found",
+                                   "filtered",
+                                   "designed",
+                                   "built",
+                                   "published",
+                                   "contacted",
+                                   "closed",
+                                   "discarded"
+                               ],
+                    "preview_url":  "string|null — URL da prévia ou página publicada, ou null enquanto indisponível.",
+                    "updated_at":  "string — data e hora da última atualização em ISO 8601, preferencialmente UTC."
+                }
 }

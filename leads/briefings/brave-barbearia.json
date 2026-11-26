@@ -1,0 +1,57 @@
+﻿{
+    "slug":  "brave-barbearia",
+    "name":  "Brave - Bar \u0026 Barbearia",
+    "city":  "Ibiraquera, Imbituba - SC",
+    "address":  "Rua Roberto Teixeira de Souza, 2832 — Estrada Velha, ao lado da Casa Mar, Ibiraquera, Imbituba - SC",
+    "hours":  "Seg a sex: 10h–12h e 14h–20h\u003cbr\u003eSábado: 09h30–12h e 13h30–17h\u003cbr\u003eDomingo: fechado",
+    "whatsapp":  "5548999963092",
+    "whatsapp_url":  "https://wa.me/5548999963092?text=Ol%C3%A1!%20Gostaria%20de%20consultar%20hor%C3%A1rios%20e%20agendar.",
+    "maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=Rua%20Roberto%20Teixeira%20de%20Souza%2C%202832%2C%20Ibiraquera%2C%20Imbituba%2C%20SC",
+    "palette":  {
+                    "background":  "#0f1115",
+                    "accent":  "#d99b38",
+                    "surface":  "#211b13",
+                    "text":  "#f5f0e8",
+                    "muted":  "#b9b1a4"
+                },
+    "font":  "Manrope",
+    "headline":  "Seu estilo, no ritmo de Ibiraquera.",
+    "copy":  {
+                 "hero":  "Cuidado de barbearia com atenção aos detalhes, pertinho da praia. Escolha seu serviço e marque pelo WhatsApp.",
+                 "highlight":  "Atendimento de barbearia em Ibiraquera, com serviços para renovar o visual.",
+                 "footer":  "Bar \u0026 Barbearia em Ibiraquera, Imbituba."
+             },
+    "services":  [
+                     {
+                         "name":  "Corte",
+                         "description":  "Degradê, tesoura, social ou infantil.",
+                         "price":  "R$ 50"
+                     },
+                     {
+                         "name":  "Combo cabelo + barba",
+                         "description":  "Corte e barba em uma combinação completa.",
+                         "price":  "R$ 90"
+                     },
+                     {
+                         "name":  "Barboterapia",
+                         "description":  "Um momento dedicado ao cuidado da barba.",
+                         "price":  "R$ 40"
+                     },
+                     {
+                         "name":  "Barba Express",
+                         "description":  "Praticidade e acabamento para o dia a dia.",
+                         "price":  "R$ 35"
+                     },
+                     {
+                         "name":  "Limpeza de pele",
+                         "description":  "Cuidado facial para renovar a pele.",
+                         "price":  "R$ 40"
+                     },
+                     {
+                         "name":  "Sobrancelha",
+                         "description":  "Acabamento cuidadoso.",
+                         "price":  "R$ 15"
+                     }
+                 ],
+    "cta":  "Quero marcar meu horário"
+}

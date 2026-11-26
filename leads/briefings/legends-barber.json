@@ -1,0 +1,47 @@
+﻿{
+    "slug":  "legends-barber",
+    "name":  "Legends Barber",
+    "city":  "Centro, Garopaba - SC",
+    "address":  "Via Shopping Garopaba, térreo, próximo à farmácia — Rodovia Jovino Piucco, 742, Centro, Garopaba - SC",
+    "hours":  "Consulte os horários disponíveis pelo WhatsApp.",
+    "whatsapp":  "5548999999995",
+    "whatsapp_url":  "https://wa.me/5548999999995?text=Ol%C3%A1!%20Gostaria%20de%20consultar%20hor%C3%A1rios%20e%20agendar.",
+    "maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=Via%20Shopping%20Garopaba%2C%20Rodovia%20Jovino%20Piucco%2C%20742%2C%20Centro%2C%20Garopaba%2C%20SC",
+    "palette":  {
+                    "background":  "#121010",
+                    "accent":  "#c8a253",
+                    "surface":  "#261d20",
+                    "text":  "#f7f2eb",
+                    "muted":  "#b9ada1"
+                },
+    "font":  "Oswald",
+    "headline":  "Seu estilo merece ser lembrado.",
+    "copy":  {
+                 "hero":  "Barbearia no Via Shopping Garopaba: conforto, fácil acesso no Centro e cuidado em cada detalhe do visual.",
+                 "highlight":  "No térreo do Via Shopping Garopaba, próximo à farmácia.",
+                 "footer":  "Barbearia no Centro de Garopaba."
+             },
+    "services":  [
+                     {
+                         "name":  "Corte Clássico \u0026 Moderno",
+                         "description":  "Consulte opções e horários.",
+                         "price":  "Consultar / Agendar"
+                     },
+                     {
+                         "name":  "Degradê Navalhado",
+                         "description":  "Linhas definidas e acabamento preciso.",
+                         "price":  "Consultar / Agendar"
+                     },
+                     {
+                         "name":  "Barba \u0026 Toalha Quente",
+                         "description":  "Um cuidado especial para a barba.",
+                         "price":  "Consultar / Agendar"
+                     },
+                     {
+                         "name":  "Combo Completo",
+                         "description":  "Cabelo e barba em um só atendimento.",
+                         "price":  "Consultar / Agendar"
+                     }
+                 ],
+    "cta":  "Consultar e agendar"
+}

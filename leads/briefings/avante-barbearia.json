@@ -1,0 +1,47 @@
+﻿{
+    "slug":  "avante-barbearia",
+    "name":  "Avante Barbearia",
+    "city":  "Campo Duna, Garopaba - SC",
+    "address":  "Rodovia SC-434, KM 5, ao lado da Eletrolar, Campo Duna — Garopaba - SC",
+    "hours":  "Seg a sex: 09h30–12h e 13h30–20h\u003cbr\u003eSábado: 09h30–16h\u003cbr\u003eDomingo: fechado",
+    "whatsapp":  "5548999527003",
+    "whatsapp_url":  "https://wa.me/5548999527003?text=Ol%C3%A1!%20Gostaria%20de%20consultar%20hor%C3%A1rios%20e%20agendar.",
+    "maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=Rodovia%20SC-434%2C%20KM%205%2C%20Campo%20Duna%2C%20Garopaba%2C%20SC",
+    "palette":  {
+                    "background":  "#0b1220",
+                    "accent":  "#e07a3f",
+                    "surface":  "#182434",
+                    "text":  "#f3f5f7",
+                    "muted":  "#a9b4c2"
+                },
+    "font":  "Plus Jakarta Sans",
+    "headline":  "Seu estilo segue em frente.",
+    "copy":  {
+                 "hero":  "Corte preciso, barba bem cuidada e atendimento direto ao ponto em Campo Duna. Fale com a Avante e consulte os serviços.",
+                 "highlight":  "Nota 5,0/5 nas avaliações de clientes.",
+                 "footer":  "Barbearia em Campo Duna, Garopaba."
+             },
+    "services":  [
+                     {
+                         "name":  "Corte Masculino \u0026 Degradê",
+                         "description":  "Consulte opções e horários.",
+                         "price":  "Consultar / Agendar"
+                     },
+                     {
+                         "name":  "Barba Completa \u0026 Navalha",
+                         "description":  "Cuidado clássico com acabamento caprichado.",
+                         "price":  "Consultar / Agendar"
+                     },
+                     {
+                         "name":  "Combo Corte + Barba",
+                         "description":  "Renove o visual em uma visita.",
+                         "price":  "Consultar / Agendar"
+                     },
+                     {
+                         "name":  "Acabamento \u0026 Sobrancelha",
+                         "description":  "Detalhes finais para completar o estilo.",
+                         "price":  "Consultar / Agendar"
+                     }
+                 ],
+    "cta":  "Consultar e agendar"
+}
