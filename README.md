@@ -51,3 +51,10 @@ O cat?logo `templates/presets/catalog.json` descreve os presets reutiliz?veis: `
 2. Preencha os tokens `{{CAMPO}}` listados em `placeholders` no cat?logo, incluindo contato, endere?o, servi?os, pre?os e links.
 3. Troque a refer?ncia `assets/hero.jpg` em `styles.css` pela foto do neg?cio; `assets/hero-placeholder.svg` serve como guia.
 4. Revise conte?do, links e visual para celular antes de publicar. O CSS j? vem pronto, ent?o comece personalizando os dados.
+
+
+### Revis?o autom?tica e overflow no navegador
+
+Antes de publicar, execute `node scripts/check-sites.mjs` para validar os JSONs, arquivos, links, imagens locais, SVGs e regras responsivas dos sites e presets. O comando termina com c?digo `0` quando tudo passa e `1` quando encontra erros.
+
+Na revis?o visual com o `lp-reviewer`, abra cada site no navegador em `1280px` e em `390x844` e execute o conte?do de `scripts/browser-overflow-check.js` via `orca eval`. O resultado lista `doc-x-overflow`, `offscreen-right`, `clip-x` e `clip-y` em t?tulos, textos e controles.
