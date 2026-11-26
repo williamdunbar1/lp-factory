@@ -1,4 +1,4 @@
-﻿{
+{
     "slug":  "brave-barbearia",
     "name":  "Brave - Bar \u0026 Barbearia",
     "city":  "Ibiraquera, Imbituba - SC",
@@ -25,32 +25,32 @@
                      {
                          "name":  "Corte",
                          "description":  "Degradê, tesoura, social ou infantil.",
-                         "price":  "R$ 50"
+                         "price": "Consultar"
                      },
                      {
                          "name":  "Combo cabelo + barba",
                          "description":  "Corte e barba em uma combinação completa.",
-                         "price":  "R$ 90"
+                         "price": "Consultar"
                      },
                      {
                          "name":  "Barboterapia",
                          "description":  "Um momento dedicado ao cuidado da barba.",
-                         "price":  "R$ 40"
+                         "price": "Consultar"
                      },
                      {
                          "name":  "Barba Express",
                          "description":  "Praticidade e acabamento para o dia a dia.",
-                         "price":  "R$ 35"
+                         "price": "Consultar"
                      },
                      {
                          "name":  "Limpeza de pele",
                          "description":  "Cuidado facial para renovar a pele.",
-                         "price":  "R$ 40"
+                         "price": "Consultar"
                      },
                      {
                          "name":  "Sobrancelha",
                          "description":  "Acabamento cuidadoso.",
-                         "price":  "R$ 15"
+                         "price": "Consultar"
                      }
                  ],
     "cta":  "Quero marcar meu horário"
