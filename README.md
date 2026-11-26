@@ -40,3 +40,14 @@ O template inclui hero com CTA para WhatsApp, diferenciais, cards de serviços, 
 ## Publicação
 
 As páginas publicadas ficam em `sites/<slug>/` e são servidas pelo GitHub Pages em `https://williamdunbar1.github.io/lp-factory/sites/<slug>/`.
+
+## Biblioteca de presets
+
+O cat?logo `templates/presets/catalog.json` descreve os presets reutiliz?veis: `craft-lounge`, `editorial-light` e `classic-club`. Cada preset inclui `index.html`, `styles.css`, `script.js` e uma imagem SVG de refer?ncia. A estrutura, o CSS e o comportamento visual foram extra?dos das p?ginas aprovadas do Lote 1.
+
+### Criar um site a partir de um preset
+
+1. Escolha um preset no cat?logo e copie sua pasta para `sites/<slug>/`.
+2. Preencha os tokens `{{CAMPO}}` listados em `placeholders` no cat?logo, incluindo contato, endere?o, servi?os, pre?os e links.
+3. Troque a refer?ncia `assets/hero.jpg` em `styles.css` pela foto do neg?cio; `assets/hero-placeholder.svg` serve como guia.
+4. Revise conte?do, links e visual para celular antes de publicar. O CSS j? vem pronto, ent?o comece personalizando os dados.

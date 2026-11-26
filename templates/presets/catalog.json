@@ -1,0 +1,225 @@
+[
+  {
+    "id": "craft-lounge",
+    "name": "Craft Lounge",
+    "reference_site": "sites/brave-barbearia/",
+    "theme": "dark",
+    "palette": {
+      "--bg": "#0c0b0a",
+      "--surface": "#151311",
+      "--card": "#1c1916",
+      "--text": "#f5f0e8",
+      "--muted": "#b9b1a5",
+      "--accent": "#d49b45",
+      "--line": "rgba(212,155,69,.22)"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Plus Jakarta Sans"
+    },
+    "best_for": [
+      "barbearias artesanais",
+      "bares",
+      "hamburguerias",
+      "caf?s",
+      "est?dios premium"
+    ],
+    "layout_highlights": [
+      "Hero full-bleed com foto de fundo",
+      "Menu de servi?os em duas colunas com pre?os",
+      "Blocos editoriais para diferenciais e localiza??o"
+    ],
+    "files": [
+      "index.html",
+      "styles.css",
+      "script.js",
+      "assets/hero-placeholder.svg"
+    ],
+    "placeholders": [
+      "{{ADDRESS_HIGHLIGHT}}",
+      "{{BUSINESS_CATEGORY}}",
+      "{{BUSINESS_NAME}}",
+      "{{CITY}}",
+      "{{DIFFERENTIATOR_EYEBROW}}",
+      "{{DIFFERENTIATOR_TITLE}}",
+      "{{FINAL_CTA_LABEL}}",
+      "{{FINAL_CTA_TITLE}}",
+      "{{HERO_TITLE}}",
+      "{{INSTAGRAM_URL}}",
+      "{{LANDMARK}}",
+      "{{LOCATION_EYEBROW}}",
+      "{{LOCATION_TITLE}}",
+      "{{MAP_DESTINATION_ENCODED}}",
+      "{{MAP_QUERY_ENCODED}}",
+      "{{MAP_TITLE}}",
+      "{{META_DESCRIPTION}}",
+      "{{NEIGHBORHOOD}}",
+      "{{PHONE_DISPLAY}}",
+      "{{SERVICES_DESCRIPTION}}",
+      "{{SERVICE_1_NAME}}",
+      "{{SERVICE_1_PRICE}}",
+      "{{SERVICE_2_NAME}}",
+      "{{SERVICE_2_PRICE}}",
+      "{{SERVICE_3_DESCRIPTION}}",
+      "{{SERVICE_3_NAME}}",
+      "{{SERVICE_3_PRICE}}",
+      "{{SERVICE_4_DESCRIPTION}}",
+      "{{SERVICE_4_NAME}}",
+      "{{SERVICE_4_PRICE}}",
+      "{{SERVICE_5_DESCRIPTION}}",
+      "{{SERVICE_5_NAME}}",
+      "{{SERVICE_6_DESCRIPTION}}",
+      "{{SERVICE_6_NAME}}",
+      "{{SERVICE_6_PRICE}}",
+      "{{SOCIAL_LINK_LABEL}}",
+      "{{STARTING_PRICE}}",
+      "{{SUNDAY_HOURS}}",
+      "{{WHATSAPP_ARIA_LABEL}}",
+      "{{WHATSAPP_MESSAGE_ENCODED}}",
+      "{{WHATSAPP_NUMBER}}"
+    ]
+  },
+  {
+    "id": "editorial-light",
+    "name": "Editorial Light",
+    "reference_site": "sites/avante-barbearia/",
+    "theme": "light",
+    "palette": {
+      "--bg": "#f6f4ef",
+      "--surface": "#ece8df",
+      "--card": "#fff",
+      "--text": "#14181f",
+      "--muted": "#62645f",
+      "--accent": "#114232",
+      "--copper": "#c46d3b",
+      "--line": "#ddd7ca"
+    },
+    "fonts": {
+      "display": "Syne / Space Grotesk",
+      "body": "Inter"
+    },
+    "best_for": [
+      "est?dios modernos",
+      "cl?nicas",
+      "odontologia",
+      "est?tica",
+      "fisioterapia",
+      "escrit?rios",
+      "barbearias modernas"
+    ],
+    "layout_highlights": [
+      "Hero split com foto emoldurada",
+      "Selo de avalia??es",
+      "Cards brancos limpos em grades"
+    ],
+    "files": [
+      "index.html",
+      "styles.css",
+      "script.js",
+      "assets/hero-placeholder.svg"
+    ],
+    "placeholders": [
+      "{{BENEFIT_1_TITLE}}",
+      "{{BENEFIT_2_DESCRIPTION}}",
+      "{{BENEFIT_2_TITLE}}",
+      "{{BENEFIT_3_TITLE}}",
+      "{{BUSINESS_CATEGORY}}",
+      "{{BUSINESS_NAME_ENCODED}}",
+      "{{BUSINESS_NAME}}",
+      "{{CITY}}",
+      "{{FINAL_CTA_LABEL}}",
+      "{{FINAL_CTA_TITLE}}",
+      "{{HERO_DESCRIPTION}}",
+      "{{LANDMARK}}",
+      "{{LOCATION_TITLE}}",
+      "{{MAP_DESTINATION_ENCODED}}",
+      "{{MAP_QUERY_ENCODED}}",
+      "{{MAP_TITLE}}",
+      "{{NEIGHBORHOOD}}",
+      "{{PHONE_DISPLAY}}",
+      "{{RATING}}",
+      "{{REVIEW_COUNT}}",
+      "{{ROAD_OR_LANDMARK}}",
+      "{{SERVICE_1_DESCRIPTION}}",
+      "{{SERVICE_2_DESCRIPTION}}",
+      "{{SERVICE_2_NAME}}",
+      "{{SERVICE_3_NAME}}",
+      "{{SERVICE_4_DESCRIPTION}}",
+      "{{SERVICE_4_NAME}}",
+      "{{SUNDAY_HOURS}}",
+      "{{WHATSAPP_ARIA_LABEL}}",
+      "{{WHATSAPP_MESSAGE_ENCODED}}",
+      "{{WHATSAPP_NUMBER}}"
+    ]
+  },
+  {
+    "id": "classic-club",
+    "name": "Classic Club",
+    "reference_site": "sites/legends-barber/",
+    "theme": "dark",
+    "palette": {
+      "--bg": "#0b0b0d",
+      "--surface": "#141418",
+      "--card": "#1b1b21",
+      "--text": "#f4f0e8",
+      "--muted": "#aaa6a0",
+      "--wine": "#8b2635",
+      "--gold": "#c9a45c",
+      "--line": "rgba(201,164,92,.24)"
+    },
+    "fonts": {
+      "display": "Bebas Neue",
+      "body": "DM Sans"
+    },
+    "best_for": [
+      "barbearias cl?ssicas",
+      "academias boutique",
+      "est?dios automotivos",
+      "est?tica automotiva",
+      "lojas masculinas",
+      "clubes",
+      "servi?os em shopping"
+    ],
+    "layout_highlights": [
+      "Hero emoldurado com foto",
+      "Display uppercase e moldura fina",
+      "Grade de servi?os 2x2"
+    ],
+    "files": [
+      "index.html",
+      "styles.css",
+      "script.js",
+      "assets/hero-placeholder.svg"
+    ],
+    "placeholders": [
+      "{{BUSINESS_CATEGORY}}",
+      "{{BUSINESS_NAME}}",
+      "{{CITY}}",
+      "{{DIFFERENTIATOR_EYEBROW}}",
+      "{{DIFFERENTIATOR_TITLE}}",
+      "{{FINAL_CTA_LABEL}}",
+      "{{HERO_FACT_2}}",
+      "{{HERO_TITLE}}",
+      "{{INSTAGRAM_URL}}",
+      "{{LANDMARK}}",
+      "{{LOCATION_TITLE}}",
+      "{{MAP_DESTINATION_ENCODED}}",
+      "{{MAP_QUERY_ENCODED}}",
+      "{{MAP_TITLE}}",
+      "{{NEIGHBORHOOD}}",
+      "{{PHONE_DISPLAY}}",
+      "{{SERVICE_1_DESCRIPTION}}",
+      "{{SERVICE_1_LABEL}}",
+      "{{SERVICE_2_DESCRIPTION}}",
+      "{{SERVICE_3_DESCRIPTION}}",
+      "{{SERVICE_3_LABEL}}",
+      "{{SERVICE_3_NAME}}",
+      "{{SERVICE_4_LABEL}}",
+      "{{SERVICE_4_NAME}}",
+      "{{STREET_ADDRESS}}",
+      "{{WHATSAPP_ARIA_LABEL}}",
+      "{{WHATSAPP_MESSAGE_ENCODED}}",
+      "{{WHATSAPP_NUMBER}}"
+    ]
+  }
+]
