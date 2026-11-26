@@ -1,0 +1,17 @@
+{
+  "leads": [],
+  "_schema": {
+    "slug": "string — identificador único em formato de URL, usado também no nome do briefing e da página.",
+    "name": "string — nome público do negócio.",
+    "niche": "string — nicho ou categoria do negócio.",
+    "city": "string — cidade e, se útil, UF.",
+    "phone": "string — telefone de contato, preferencialmente com código do país.",
+    "whatsapp": "string — número do WhatsApp com código do país; somente dígitos.",
+    "maps_url": "string — URL da ficha do estabelecimento no Google Maps.",
+    "current_site": "string|null — URL do site atual, ou null se não houver.",
+    "rating": "number|null — nota pública observada, ou null se indisponível.",
+    "status": ["found", "filtered", "designed", "built", "published", "contacted", "closed", "discarded"],
+    "preview_url": "string|null — URL da prévia ou página publicada, ou null enquanto indisponível.",
+    "updated_at": "string — data e hora da última atualização em ISO 8601, preferencialmente UTC."
+  }
+}
